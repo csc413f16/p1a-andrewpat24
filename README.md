@@ -1,9 +1,8 @@
 Name: Andrew Patterson
 
-Compilation and Run Successful: The toast worked, it worked! 
+Compilation and Run Successful: The toast worked, it worked!
 
-Unit Test Run Successfully: The first time the test ran it returned an exit code of 1.
-The second test ran perfectly and returned 0.
+Unit Test Run Successfully: My first attempt compiling MainActvityTest was a failure and returned 1. However, every attempt following was successful returning 0.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
